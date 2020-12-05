@@ -1,0 +1,12 @@
+.glyphcon {
+    color: #ccc;
+    cursor: pointer;
+}
+
+.highlighted {
+    color: deeppink;
+}
+
+body {
+    margin: 20px;
+}
