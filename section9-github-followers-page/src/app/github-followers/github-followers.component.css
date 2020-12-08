@@ -1,0 +1,14 @@
+.div-list {
+    display: block;
+    margin: 20px;
+}
+
+.avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+}
+
+h5:first-letter {
+    text-transform:capitalize;
+}
